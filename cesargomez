@@ -1,0 +1,11 @@
+Measure Id	Measure Name	Reporting Start Date	Reporting End Date	IPP	Denominator	Exclusion	Numerator	Exception	Perf.Not.Met	Perf.Rate (%)	Decile
+CMS122	Diabetes: Hemoglobin A1c Poor Control	10/2/2017	12/31/2017	152	152	0	44	0	108	28.95	NA
+CMS128A	Anti-Depressant Medication Management\n	10/2/2017	12/31/2017	26	26	13	13	0	0	100	10
+CMS128B	Anti-Depressant Medication Management\n	10/2/2017	12/31/2017	26	26	13	13	0	0	100	10
+CMS130	Colorectal Cancer Screening\n	10/2/2017	12/31/2017	374	374	1	0	0	373	0	NA
+CMS139	Falls: Screening for Future Fall Risk	10/2/2017	12/31/2017	232	232	0	0	0	232	0	NA
+CMS147	Preventive Care and Screening: Influenza Immunization	10/2/2017	12/31/2017	397	265	0	131	1	133	49.62	NA
+CMS161	Adult Major Depressive Disorder (MDD): Suicide Risk Assessment	10/2/2017	12/31/2017	36	36	0	0	0	36	0	NA
+CMS68	Documentation of Current Medications in the Medical Record\n	10/2/2017	12/31/2017	1152	1152	0	1068	0	84	92.71	NA
+CMS69	Preventive Care and Screening: Body Mass Index (BMI) Screening and Follow-Up Plan\n	10/2/2017	12/31/2017	630	630	1	463	0	166	73.61	10
+CMS82	Maternal Depression Screening\n	10/2/2017	12/31/2017	0	0	0	0	0	0	0	NA
